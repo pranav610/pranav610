@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @pranav610
-- 🌱 I’m currently learning in CSE @iitKGP
+### Hi, I’m Pranav Kulkarni
+
+3rd year CSE undergraduate student @ IIT KGP.
 
 <!---
 pranav610/pranav610 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
